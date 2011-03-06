@@ -3,5 +3,4 @@ h1. WE WANT MORE TICKETS!
 p. Because we love "Euruko 2011":http://euruko2011.org/!!!
 
 * "phoet":http://twitter.com/phoet
-* "rubiii":http://twitter.com/rubiii
 * lots more to add

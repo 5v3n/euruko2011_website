@@ -10,4 +10,5 @@ p. Because we love "Euruko 2011":http://euruko2011.org/!!!
 * "iain_nl":http://twitter.com/iain_nl
 * "imanel":http://twitter.com/_imanel
 * "lminaudier":http://twitter.com/lminaudier
+* "skorfmann":http://twitter.com/skorfmann
 * lots more to add
